@@ -1,0 +1,19 @@
+package com.ApplicationLaunch;
+
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeDriverInfo;
+import org.openqa.selenium.remote.RemoteWebDriver;
+
+public class ApplicationLaunch {
+
+	private static RemoteWebDriver chromebrowser;
+
+	public static void main(String[] args) {
+		
+		System.setProperty("webdriver.chrome.driver","./browserdriverfiles/chromedriver.exe");
+		ChromeDriver rakesh= new ChromeDriver();
+		rakesh.get("http:/bing.com");
+
+	}
+
+}

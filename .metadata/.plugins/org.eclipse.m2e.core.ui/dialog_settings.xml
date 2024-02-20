@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\Hi\Desktop\Rakeshk\orangeHRM"/>
+			<item value="C:\Users\Hi\Desktop\Rakeshk\OHRM"/>
+			<item value="C:\Users\Hi\Desktop\Rakeshk\OrangeHRMApplication_POM"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.Test.OrangeHRMApplication"/>
+			<item value="com.Test.OrangeHRMApplication_Cucumber"/>
+			<item value="OrangeHRM_Cucumber.OrangeHRM_Cucumber"/>
+			<item value="Orange_HRM.Orange_Cucumber"/>
+			<item value="Orange_HRM_Cucumber.Orange_HRM"/>
+			<item value="OrangeHRM.Orange_HRM_Cucumber"/>
+			<item value="OrangeHRM_Cucumber.OrangeHRM"/>
+		</list>
+		<list key="groupId">
+			<item value="com.Test"/>
+			<item value="OrangeHRM-Cucumber"/>
+			<item value="Orange_HRM"/>
+			<item value="Orange_HRM_Cucumber"/>
+			<item value="OrangeHRM"/>
+			<item value="OrangeHRM_Cucumber"/>
+		</list>
+		<list key="artifactId">
+			<item value="OrangeHRMApplication"/>
+			<item value="OrangeHRMApplication_Cucumber"/>
+			<item value="OrangeHRM-Cucumber"/>
+			<item value="Orange_Cucumber"/>
+			<item value="Orange_HRM"/>
+			<item value="Orange_HRM_Cucumber"/>
+			<item value="OrangeHRM"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenCheckoutLocationPage">
+		<list key="scmUrl">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item key="width" value="480"/>
+		<item key="height" value="836"/>
+		<item key="x" value="720"/>
+		<item key="y" value="0"/>
+	</section>
+</section>

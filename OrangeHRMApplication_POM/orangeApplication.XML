@@ -1,0 +1,13 @@
+<suite name="OrangeApplicatin" parallel="tests"> 
+      <test name="Login Test">
+          <classes>
+            <class name="com.AddEmployee.LoginTest"/>
+              </classes>
+                  </test>
+               
+           <test name="photographTest">
+              <classes>
+                 <class name="com.AddEmployee.photographTest"/>
+                    </classes>
+                        </test>    
+                              </suite>

@@ -1,0 +1,12 @@
+package com.ApplicationLaunch;
+
+public class ApplicationLaunch {
+
+	public static void main(String[] args) {
+		
+		System.setProperty("webdriver.chrome.driver","./browserDriverFiles/chromedriver.exe");
+		ChromeDriver chromeBrowser=new ChromeDriver();
+
+	}
+
+}

@@ -1,0 +1,8 @@
+package com.AddEmployee;
+
+public class Photograph extends BaseTest{
+	public void loginpageTest() {
+		
+	}
+
+}

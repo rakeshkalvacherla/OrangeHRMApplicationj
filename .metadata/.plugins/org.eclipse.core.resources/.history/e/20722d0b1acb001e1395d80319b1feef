@@ -1,0 +1,22 @@
+package com.AddEmployee;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.Keys;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
+import org.testng.annotations.Test;
+
+@Test
+public class Photograph extends BaseTest{
+	
+	public void loginpageTest() { 
+		//id="txtUsername"
+    By usernameProperty=By.id("txtUsername");
+    WebElement username=driver.findElement(usernameProperty);
+    username.sendKeys("Rakesh");
+    //id="txtPassword"
+    passwordproperty=By.id("txtPassword");
+		
+	}
+
+}

@@ -1,0 +1,80 @@
+package com.AddEmployee;
+
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.util.Properties;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.Keys;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
+import org.testng.annotations.Test;
+
+
+public class Photograph extends BaseTest{
+	@Test(priority=1,description="Validating OrangeHRM Application  Login Functionality")
+	public void loginpageTest() throws IOException { 
+		/*
+		FileInputStream propertiesFile=new FileInputStream("./src/com/Config/OrangeHrmApplication.properties");
+		Properties proereties=new Properties();
+		*/
+		
+		//id="txtUsername"
+    By usernameProperty=By.id("txtUsername");
+    WebElement username=driver.findElement(usernameProperty);
+    username.sendKeys("Rakesh");
+    //id="txtPassword"
+    By passwordproperty=By.id("txtPassword");
+    WebElement password=driver.findElement(passwordproperty);
+    password.sendKeys("Rakesh@1996");
+    //id="btnLogin"
+    By LoginButtonProperty=By.id("btnLogin");
+    WebElement LoginButton=driver.findElement(LoginButtonProperty);
+    LoginButton.click();
+	}
+	@Test(priority=2,description="validating OrangeHRM Orange Application HomePage Pim Functionality ")
+	public void PimTest() {
+		//id="menu_pim_viewPimModule"
+	By 	pimProperty=By.id("menu_pim_viewPimModule");
+	WebElement pim=driver.findElement(pimProperty);
+		
+		Actions MouseHover=new Actions(driver);
+		MouseHover.moveToElement(pim).build().perform();
+		
+	}
+	@Test(priority=3,description="Validating OrangeHRM Application AddEmployee Functionality Test")
+	public void pimAddEmployeeTest() {
+		//id="menu_pim_addEmployee"
+	By	AddemployeeProperty=By.id("menu_pim_addEmployee");
+	WebElement Addemployee =driver.findElement(AddemployeeProperty);
+	Addemployee.click();
+	}
+	@Test(priority=4)
+	public void AddEmployeTest() throws InterruptedException, IOException {
+		//id="firstName"
+	By	FirstNameProperty=By.id("firstName");
+	WebElement FirstName=driver.findElement(FirstNameProperty);
+	FirstName.sendKeys("Kalvacherla");
+	
+	Actions KeyBoardActions=new Actions(driver);
+	KeyBoardActions.sendKeys(Keys.TAB).build().perform();
+	
+	KeyBoardActions.sendKeys("Rakesh").build().perform();
+	KeyBoardActions.sendKeys(Keys.TAB).build().perform();
+	
+	KeyBoardActions.sendKeys("sharma").build().perform();
+	KeyBoardActions.sendKeys(Keys.TAB).build().perform();
+	
+	KeyBoardActions.sendKeys(Keys.TAB).build().perform();
+	KeyBoardActions.sendKeys(Keys.ENTER).build().perform();
+	
+	Thread.sleep(5000);
+
+	java.lang.Runtime.getRuntime().exec("./AutoItTestScripts/Photograph.exe");
+
+	Thread.sleep(5000);
+	
+	}
+
+}

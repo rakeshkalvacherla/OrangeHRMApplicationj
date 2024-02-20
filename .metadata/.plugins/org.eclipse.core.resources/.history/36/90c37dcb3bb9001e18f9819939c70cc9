@@ -1,0 +1,34 @@
+package com.OHRM;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class OrangeHRM_LinksName {
+
+	public static void main(String[] args) {
+		
+		  String OrangeApplicationURLAddress="http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login";
+	      System.setProperty("webdriver.chrome.driver", "./browserDriverFiles/chromedriver.exe");
+          ChromeDriver driver=new ChromeDriver();
+          driver.get(OrangeApplicationURLAddress);
+        
+        //<input name="txtUsername" id="txtUsername" type="text">
+            String userNameTextdata="Rakesh";
+            By  userNameproperty  = By.id("txtUsername");
+            WebElement userName=driver.findElement(userNameproperty);
+            userName.sendKeys("userNameTextdata");
+           
+           //id="txtPassword"
+             String PasswordTextdata="Rakesh@1996";
+             By  PasswordProperty =By.id("txtPassword");
+             WebElement Password=driver.findElement(PasswordProperty);
+             Password.sendKeys("PasswordTextdata");
+             
+        //id=btnLogin
+              By   LoginProperty   =By.id("btnLogin");
+              WebElement Login=driver.findElement(LoginProperty);
+              Login.submit();
+             
+	}
+}

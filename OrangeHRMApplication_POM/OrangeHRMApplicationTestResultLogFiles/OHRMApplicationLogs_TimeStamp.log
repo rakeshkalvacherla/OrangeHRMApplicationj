@@ -1,0 +1,55 @@
+2024-02-17 21:59:01,105 - Log -INFO - ChromeBrowser Along With OrangeHRM Application closed Successfully
+2024-02-17 21:59:01,218 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.jq.Main@3f9342d4: 68 ms
+2024-02-17 21:59:01,229 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.FailedReporter@39a2bb97: 10 ms
+2024-02-17 21:59:01,238 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.XMLReporter@2766ca9d: 8 ms
+2024-02-17 21:59:01,247 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3c9c0d96: 8 ms
+2024-02-17 21:59:01,261 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@39655d3e: 14 ms
+2024-02-17 21:59:01,262 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3d1848cc: 0 ms
+2024-02-17 22:15:01,425 - Log -INFO - Successfully Navigated to OrangeHRM Application LoginPage
+2024-02-17 22:15:03,250 - Log -INFO - Successfully Navigated to OrangeHRM Application LoginPage
+2024-02-17 22:15:03,432 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.jq.Main@19f040ba: 119 ms
+2024-02-17 22:15:03,434 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.FailedReporter@27e32fe4: 1 ms
+2024-02-17 22:15:03,443 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.XMLReporter@23cd4ff2: 9 ms
+2024-02-17 22:15:03,451 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@aed0151: 8 ms
+2024-02-17 22:15:03,465 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2e1792e7: 12 ms
+2024-02-17 22:15:03,465 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3eb631b8: 0 ms
+2024-02-17 22:16:19,718 - Log -INFO - Successfully Navigated to OrangeHRM Application LoginPage
+2024-02-17 22:16:19,875 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.jq.Main@1f14f20c: 95 ms
+2024-02-17 22:16:19,877 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.FailedReporter@62315f22: 2 ms
+2024-02-17 22:16:19,888 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.XMLReporter@60c16548: 9 ms
+2024-02-17 22:16:19,897 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@76adb233: 8 ms
+2024-02-17 22:16:19,911 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5d28bcd5: 14 ms
+2024-02-17 22:16:19,911 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.internal.ExitCodeListener@32639b12: 0 ms
+2024-02-17 22:16:44,676 - Log -INFO - Successfully Navigated to OrangeHRM Application LoginPage
+2024-02-17 22:16:44,807 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.jq.Main@1f14f20c: 75 ms
+2024-02-17 22:16:44,809 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.FailedReporter@62315f22: 1 ms
+2024-02-17 22:16:44,817 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.XMLReporter@60c16548: 8 ms
+2024-02-17 22:16:44,823 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@76adb233: 5 ms
+2024-02-17 22:16:44,834 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5d28bcd5: 10 ms
+2024-02-17 22:16:44,835 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.internal.ExitCodeListener@32639b12: 0 ms
+2024-02-17 23:03:25,258 - Log -INFO - Successfully Navigated to OrangeHRM Application LoginPage
+2024-02-17 23:03:25,288 - Log -INFO - The Expected Text of the WebElement LoginPanel is:_LOGIN Panel
+2024-02-17 23:03:25,545 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.jq.Main@60c16548: 157 ms
+2024-02-17 23:03:25,573 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.FailedReporter@6c8a68c1: 26 ms
+2024-02-17 23:03:25,595 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.XMLReporter@25cc7470: 20 ms
+2024-02-17 23:03:25,611 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@1144a55a: 15 ms
+2024-02-17 23:03:25,645 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6f63c44f: 33 ms
+2024-02-17 23:03:25,646 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.internal.ExitCodeListener@62a8fd44: 0 ms
+2024-02-17 23:08:00,366 - Log -INFO - Successfully Navigated to OrangeHRM Application LoginPage
+2024-02-17 23:08:00,616 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.jq.Main@4aeaadc1: 154 ms
+2024-02-17 23:08:00,618 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.FailedReporter@1f14f20c: 1 ms
+2024-02-17 23:08:00,635 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.XMLReporter@c96a4ea: 16 ms
+2024-02-17 23:08:00,651 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7fcff1b9: 16 ms
+2024-02-17 23:08:00,675 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@79b663b3: 23 ms
+2024-02-17 23:08:00,677 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5d28bcd5: 0 ms
+2024-02-17 23:20:15,592 - Log -INFO - Successfully Navigated to OrangeHRM Application LoginPage
+2024-02-17 23:20:15,663 - Log -INFO - The Expected Text of the WebElement LoginPanel is:_LOGIN Panel
+2024-02-17 23:20:15,746 - Log -INFO - The Actual Text of the WebElement LoginPanel is:-LOGIN Panel
+2024-02-17 23:20:15,752 - Log -INFO - Login Panel Text Validation Successful:-pass
+2024-02-17 23:20:15,883 - Log -INFO - OrangeHRM Application Loginpage Logo  found:-Pass
+2024-02-17 23:20:16,099 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.jq.Main@1d01dfa5: 138 ms
+2024-02-17 23:20:16,102 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.FailedReporter@22101c80: 2 ms
+2024-02-17 23:20:16,120 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.XMLReporter@6d64b553: 17 ms
+2024-02-17 23:20:16,135 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3aefae67: 14 ms
+2024-02-17 23:20:16,161 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3b0ca5e1: 25 ms
+2024-02-17 23:20:16,162 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.internal.ExitCodeListener@54dcbb9f: 0 ms

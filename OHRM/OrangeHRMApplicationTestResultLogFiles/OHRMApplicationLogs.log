@@ -1,0 +1,67 @@
+[main] INFO Log - The Number of Radio Buttons Group1 are:-3
+[main] INFO Log - The Number of Radio Buttons Group2 are:-3
+[main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@31611954: 191 ms
+[main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@7e31ce0f: 1 ms
+[main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@20d11153: 19 ms
+[main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5767b2af: 11 ms
+[main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1d035be3: 22 ms
+[main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4cfbaf4: 1 ms
+[main] INFO Log - The Number of Radio Buttons Group1 are:-3
+[main] INFO Log - The Number of Radio Buttons Group2 are:-3
+[main] INFO Log - Milk
+[main] INFO Log - Milktrue
+[main] INFO Log - Butternull
+[main] INFO Log - Cheesenull
+[main] INFO Log - Waternull
+[main] INFO Log - Beernull
+[main] INFO Log - Winetrue
+[main] INFO Log - Butter
+[main] INFO Log - Milknull
+[main] INFO Log - Buttertrue
+[main] INFO Log - Cheesenull
+[main] INFO Log - Waternull
+[main] INFO Log - Beernull
+[main] INFO Log - Winetrue
+[main] INFO Log - Cheese
+[main] INFO Log - Milknull
+[main] INFO Log - Butternull
+[main] INFO Log - Cheesetrue
+[main] INFO Log - Waternull
+[main] INFO Log - Beernull
+[main] INFO Log - Winetrue
+[main] INFO Log - Water
+[main] INFO Log - Milknull
+[main] INFO Log - Butternull
+[main] INFO Log - Cheesetrue
+[main] INFO Log - Watertrue
+[main] INFO Log - Beernull
+[main] INFO Log - Winenull
+[main] INFO Log - Beer
+[main] INFO Log - Milknull
+[main] INFO Log - Butternull
+[main] INFO Log - Cheesetrue
+[main] INFO Log - Waternull
+[main] INFO Log - Beertrue
+[main] INFO Log - Winenull
+[main] INFO Log - Wine
+[main] INFO Log - Milknull
+[main] INFO Log - Butternull
+[main] INFO Log - Cheesetrue
+[main] INFO Log - Waternull
+[main] INFO Log - Beernull
+[main] INFO Log - Winetrue
+[main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@6de0f580: 92 ms
+[main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@1d61c6dc: 2 ms
+[main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@6c8909c3: 14 ms
+[main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@29528a22: 12 ms
+[main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@58a63629: 16 ms
+[main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2e1af49b: 1 ms
+[main] INFO Log - The Number of Radio Buttons Group1 are:-3
+[main] INFO Log - The Number of Radio Buttons Group2 are:-3
+[main] INFO Log - Milk
+[main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@41d7b27f: 83 ms
+[main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@5a4c638d: 14 ms
+[main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@464a4442: 17 ms
+[main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6bff19ff: 17 ms
+[main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@69eb86b4: 21 ms
+[main] INFO org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5bb8f9e2: 1 ms

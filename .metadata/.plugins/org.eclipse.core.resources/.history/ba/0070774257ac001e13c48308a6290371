@@ -1,0 +1,28 @@
+package com.TestingBrowsers;
+
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.edge.EdgeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.opera.OperaDriver;
+
+public class TestingBrowsers {
+
+	public static void main(String[] args) {
+		
+		System.setProperty("webdriver.chrome.driver","C:\\Users\\Hi\\Desktop\\Rakeshk\\orangeHRM\\browserdriverfiles\\chromedriver.exe");
+        ChromeDriver rakesh = new ChromeDriver();	 
+
+     //  System.setProperty("webdriver.gecko.driver", "C:\\Users\\Hi\\Desktop\\Rakeshk\\orangeHRM\\browserdriverfiles\\geckodriver.exe");
+      //FirefoxDriver naveen=new FirefoxDriver();
+       
+    //   System.setProperty("webdriver.edge.driver", "C:\\Users\\Hi\\Desktop\\Rakeshk\\orangeHRM\\browserdriverfiles\\msedgedriver.exe");
+    //  EdgeDriver edge=new EdgeDriver();
+       
+    //  System.setProperty("webdriver.opera.driver","C:\\Users\\Hi\\Desktop\\Rakeshk\\orangeHRM\\browserdriverfiles\\operadriver.exe");
+     
+     //  OperaDriver typename = new OperaDriver();
+       
+       
+	}	
+	
+}

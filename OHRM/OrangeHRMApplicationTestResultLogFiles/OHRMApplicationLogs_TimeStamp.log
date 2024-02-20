@@ -1,0 +1,67 @@
+2024-02-16 21:32:44,355 - Log -INFO - The Number of Radio Buttons Group1 are:-3
+2024-02-16 21:32:44,371 - Log -INFO - The Number of Radio Buttons Group2 are:-3
+2024-02-16 21:32:44,654 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.jq.Main@31611954: 191 ms
+2024-02-16 21:32:44,657 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.FailedReporter@7e31ce0f: 1 ms
+2024-02-16 21:32:44,678 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.XMLReporter@20d11153: 19 ms
+2024-02-16 21:32:44,691 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@5767b2af: 11 ms
+2024-02-16 21:32:44,714 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@1d035be3: 22 ms
+2024-02-16 21:32:44,718 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.internal.ExitCodeListener@4cfbaf4: 1 ms
+2024-02-16 22:09:31,127 - Log -INFO - The Number of Radio Buttons Group1 are:-3
+2024-02-16 22:09:31,142 - Log -INFO - The Number of Radio Buttons Group2 are:-3
+2024-02-16 22:09:31,189 - Log -INFO - Milk
+2024-02-16 22:09:34,413 - Log -INFO - Milktrue
+2024-02-16 22:09:34,485 - Log -INFO - Butternull
+2024-02-16 22:09:34,573 - Log -INFO - Cheesenull
+2024-02-16 22:09:34,678 - Log -INFO - Waternull
+2024-02-16 22:09:34,760 - Log -INFO - Beernull
+2024-02-16 22:09:34,847 - Log -INFO - Winetrue
+2024-02-16 22:09:34,896 - Log -INFO - Butter
+2024-02-16 22:09:38,112 - Log -INFO - Milknull
+2024-02-16 22:09:38,193 - Log -INFO - Buttertrue
+2024-02-16 22:09:38,273 - Log -INFO - Cheesenull
+2024-02-16 22:09:38,335 - Log -INFO - Waternull
+2024-02-16 22:09:38,385 - Log -INFO - Beernull
+2024-02-16 22:09:38,449 - Log -INFO - Winetrue
+2024-02-16 22:09:38,478 - Log -INFO - Cheese
+2024-02-16 22:09:41,671 - Log -INFO - Milknull
+2024-02-16 22:09:41,745 - Log -INFO - Butternull
+2024-02-16 22:09:41,824 - Log -INFO - Cheesetrue
+2024-02-16 22:09:41,904 - Log -INFO - Waternull
+2024-02-16 22:09:41,984 - Log -INFO - Beernull
+2024-02-16 22:09:42,049 - Log -INFO - Winetrue
+2024-02-16 22:09:42,079 - Log -INFO - Water
+2024-02-16 22:09:45,265 - Log -INFO - Milknull
+2024-02-16 22:09:45,341 - Log -INFO - Butternull
+2024-02-16 22:09:45,421 - Log -INFO - Cheesetrue
+2024-02-16 22:09:45,500 - Log -INFO - Watertrue
+2024-02-16 22:09:45,579 - Log -INFO - Beernull
+2024-02-16 22:09:45,654 - Log -INFO - Winenull
+2024-02-16 22:09:45,702 - Log -INFO - Beer
+2024-02-16 22:09:48,922 - Log -INFO - Milknull
+2024-02-16 22:09:49,002 - Log -INFO - Butternull
+2024-02-16 22:09:49,079 - Log -INFO - Cheesetrue
+2024-02-16 22:09:49,157 - Log -INFO - Waternull
+2024-02-16 22:09:49,234 - Log -INFO - Beertrue
+2024-02-16 22:09:49,312 - Log -INFO - Winenull
+2024-02-16 22:09:49,358 - Log -INFO - Wine
+2024-02-16 22:09:52,569 - Log -INFO - Milknull
+2024-02-16 22:09:52,643 - Log -INFO - Butternull
+2024-02-16 22:09:52,694 - Log -INFO - Cheesetrue
+2024-02-16 22:09:52,741 - Log -INFO - Waternull
+2024-02-16 22:09:52,816 - Log -INFO - Beernull
+2024-02-16 22:09:52,892 - Log -INFO - Winetrue
+2024-02-16 22:09:53,876 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.jq.Main@6de0f580: 92 ms
+2024-02-16 22:09:53,878 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.FailedReporter@1d61c6dc: 2 ms
+2024-02-16 22:09:53,894 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.XMLReporter@6c8909c3: 14 ms
+2024-02-16 22:09:53,907 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@29528a22: 12 ms
+2024-02-16 22:09:53,924 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@58a63629: 16 ms
+2024-02-16 22:09:53,925 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2e1af49b: 1 ms
+2024-02-17 21:54:43,256 - Log -INFO - The Number of Radio Buttons Group1 are:-3
+2024-02-17 21:54:43,263 - Log -INFO - The Number of Radio Buttons Group2 are:-3
+2024-02-17 21:54:43,288 - Log -INFO - Milk
+2024-02-17 21:54:47,084 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.jq.Main@41d7b27f: 83 ms
+2024-02-17 21:54:47,098 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.FailedReporter@5a4c638d: 14 ms
+2024-02-17 21:54:47,117 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.XMLReporter@464a4442: 17 ms
+2024-02-17 21:54:47,134 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@6bff19ff: 17 ms
+2024-02-17 21:54:47,156 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@69eb86b4: 21 ms
+2024-02-17 21:54:47,158 - org.testng.internal.Utils -INFO - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5bb8f9e2: 1 ms
